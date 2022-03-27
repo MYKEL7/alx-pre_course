@@ -1,1 +1,1 @@
-my second readme
+Ready to go
